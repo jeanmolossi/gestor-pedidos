@@ -34,6 +34,9 @@
 * Cardápio
   - Cadastre os tamanhos e valores de seus produtos de acordo com as categoria
 
+* Pedido online
+  - Envie o link do cardápio para o cliente e ele faz o pedido pelo cardápio digital. Ao finalizar o pedido você recebe o pedido prontinho! É só enviar para produção
+
 ### CRM de clientes (Essencial)
 
 * Cadastro de clientes
